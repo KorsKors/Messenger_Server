@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1114228572">
+    <data-source source="LOCAL" name="H2 - users" uuid="d33ac135-5caf-48e4-89c0-1b2d08b946d5">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file://F:\JAVA\Messenger with DB\TetServer\db\users</jdbc-url>
+    </data-source>
+  </component>
+</project>
